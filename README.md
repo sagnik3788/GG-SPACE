@@ -24,5 +24,4 @@
 <li>Sign up for reminders to get notified about upcoming events.</li>
 </ol>
 
-<h2>Contact</h2>
-If you have any questions or feedback, please contact us at <a href="mailto:support@gg-space.com">support@gg-space.com</a>.
+
