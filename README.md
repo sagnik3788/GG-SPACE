@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>GG-SPACE Repository</title>
+
 </head>
 <body>
   <h1>Welcome to the GG-SPACE repository!</h1>
