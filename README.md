@@ -5,6 +5,7 @@
 
 </head>
 <body>
+  <img src="./images/curitiba-brazil-february-9-2021-600w-1927244075.webp">
   <h1>Welcome to the GG-SPACE repository!</h1>
   <p>This is your one-stop destination for updates related to FIFA, user login page, calendars, and time tables for various match pages of official clubs/teams. The repository is managed by admins and users who control the contents of their respective club/group.</p>
 
